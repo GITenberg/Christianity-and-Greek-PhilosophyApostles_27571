@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32774'
     url: http://www.gutenberg.org/2009/agents/32774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27571#Christianity-and-Greek-PhilosophyApostles
 gutenberg_issued: '2008-12-20'
 gutenberg_type: Text
 identifiers:
