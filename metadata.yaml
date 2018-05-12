@@ -1,0 +1,31 @@
+_repo: Christianity-and-Greek-PhilosophyApostles_27571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cocker, B. F. (Benjamin Franklin)
+    alias: Cocker, Benjamin Franklin
+    birthdate: 1821
+    deathdate: 1883
+    gutenberg_agent_id: '32774'
+    url: http://www.gutenberg.org/2009/agents/32774
+description: ''
+gutenberg_issued: '2008-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27571'
+  lccn: '10021490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Christianity'
+- !lcsh 'Philosophy, Ancient'
+- !lcc 'B'
+title: "Christianity and Greek Philosophy\r\nor, the relation between spontaneous\
+  \ and reflective thought in Greece and the positive teaching of Christ and His Apostles"
+url: http://www.gutenberg.org/ebooks/27571
